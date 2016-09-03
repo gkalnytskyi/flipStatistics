@@ -3,3 +3,4 @@ warnings_are_errors: false
 sudo: false
 r:
 - release
+r_github_packages: gkalnytskyi/flipExampleData
